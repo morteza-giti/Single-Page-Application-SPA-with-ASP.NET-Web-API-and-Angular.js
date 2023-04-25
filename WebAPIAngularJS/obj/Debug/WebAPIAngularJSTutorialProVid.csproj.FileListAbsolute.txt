@@ -1,0 +1,120 @@
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\WebAPIAngularJSTutorialProVid.dll.config
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\WebAPIAngularJSTutorialProVid.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\WebAPIAngularJSTutorialProVid.pdb
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Antlr3.Runtime.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\EntityFramework.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\EntityFramework.SqlServer.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Newtonsoft.Json.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Owin.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Net.Http.Formatting.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Helpers.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Http.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Http.WebHost.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Mvc.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Optimization.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Razor.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.Razor.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\WebGrease.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Helpers.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Mvc.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Optimization.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Razor.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.Razor.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Newtonsoft.Json.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Antlr3.Runtime.pdb
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Net.Http.Formatting.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Http.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Http.WebHost.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\EntityFramework.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\EntityFramework.SqlServer.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\obj\Debug\WebAPIAngularJSTutorialProVid.dll
+C:\Users\Morteza\Desktop\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\obj\Debug\WebAPIAngularJSTutorialProVid.pdb
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\WebAPIAngularJSTutorialProVid.dll.config
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\WebAPIAngularJSTutorialProVid.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\WebAPIAngularJSTutorialProVid.pdb
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Antlr3.Runtime.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\EntityFramework.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\EntityFramework.SqlServer.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Google.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Web.Infrastructure.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Newtonsoft.Json.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Owin.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Net.Http.Formatting.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Helpers.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Http.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Http.WebHost.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Mvc.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Optimization.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Razor.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.Deployment.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.Razor.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\WebGrease.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Helpers.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Mvc.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Optimization.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Razor.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.Deployment.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.WebPages.Razor.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Newtonsoft.Json.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Antlr3.Runtime.pdb
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Net.Http.Formatting.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Http.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\System.Web.Http.WebHost.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\EntityFramework.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\EntityFramework.SqlServer.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Google.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\obj\Debug\WebAPIAngularJSTutorialProVid.dll
+G:\Single Page Application (SPA) with ASP.NET Web API and Angular.js\WebAPIAngularJSTutorialProVid\WebAPIAngularJSTutorialProVid\obj\Debug\WebAPIAngularJSTutorialProVid.pdb
