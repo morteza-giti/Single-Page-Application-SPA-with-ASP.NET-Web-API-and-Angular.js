@@ -3,8 +3,8 @@ This project showcases the development of a Single Page Application (SPA) using 
 
 # Features
 
-## ASP.NET Web API Backend: Utilize ASP.NET Web API to build a robust and scalable backend that serves data and interacts with the database.
+- ASP.NET Web API Backend: Utilize ASP.NET Web API to build a robust and scalable backend that serves data and interacts with the database.
 
-## Angular.js Frontend: Leverage Angular.js to create a dynamic and responsive frontend that enhances user interactivity and provides a smooth user experience.
+- Angular.js Frontend: Leverage Angular.js to create a dynamic and responsive frontend that enhances user interactivity and provides a smooth user experience.
 
-## RESTful API Integration: Implement RESTful API endpoints that enable communication between the frontend and backend, ensuring efficient data exchange.
+- RESTful API Integration: Implement RESTful API endpoints that enable communication between the frontend and backend, ensuring efficient data exchange.
